@@ -1,0 +1,3 @@
+extract:
+  db_url: "db_url_value"
+  csv_folder_location: "exploratorydata"
