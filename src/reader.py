@@ -6,6 +6,9 @@ import json
 
 csvfolderlocation = sys.argv[1]
 llm_server_url = sys.argv[2]
+es_url = sys.argv[3]
+es_index = sys.argv[4]
+es_category = sys.argv[5]
 print(csvfolderlocation)
 print(llm_server_url)
 def read_file(filename):
@@ -69,7 +72,26 @@ if __name__ == "__main__":
                 # Make the POST request
                 response = requests.post(llm_server_url, json=data)
                 if response.status_code == 200:
-                  print(f"Record {file},{record_number},{header}: {data} = sent successfully:\n {response.text} \n\n")
+                  print(f"Record {file},{record_number},{header}: {data} = sent successfully:\n {response.text} \n")
+                  response_text_data = json.loads(response.text)
+                  entity_types = [obj["entity_type"] for obj in response_text_data]
+                  calculatedid = "".join([file, record_number, header, data])
+                  #positive_hash_value = hash(calculatedid) % (2**32)  # Using 2**32 to ensure a 32-bit positive hash value
+                  #positive_hash_value_str = str(positive_hash_value)
+                  print(calculatedid)
+                  for entity in entity_types:
+                    ecdata = {
+                        "entity": entity,
+                        "file": file,
+                        "record_number": record_number,
+                        "header": header
+                    }
+                    requests.packages.urllib3.disable_warnings()
+                    print(ecdata)
+                    ecresponse = requests.post("/".join([es_url, es_index, es_category]), verify=False, json=ecdata)
+                    print(ecresponse.text)
+                    print(entity)
+                  print("\n\n\n")
                 else:
                   print(f"Error sending record {file},{record_number},{header}: {data}: {response.status_code}")
             except Exception as e:

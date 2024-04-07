@@ -2,3 +2,6 @@ extract:
   db_url: "db_url_value"
   csv_folder_location: "exploratorydata"
   llm_api_url: "http://localhost:8000/analyze/"
+  elasticsearch_url: "http://localhost:9200"
+  elasticsearch_index: "pii"
+  elasticsearch_category: "category"
