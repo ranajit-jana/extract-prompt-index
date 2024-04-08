@@ -63,22 +63,22 @@ if __name__ == "__main__":
 
             # Convert the dictionary to a JSON string
             json_string = json.dumps(json_data)
-            data = {
+            jsondata = {
                 "text": data,
                 "key2": "value2"
             }
             print(data)
             try:
                 # Make the POST request
-                response = requests.post(llm_server_url, json=data)
+                response = requests.post(llm_server_url, json=jsondata)
                 if response.status_code == 200:
                   print(f"Record {file},{record_number},{header}: {data} = sent successfully:\n {response.text} \n")
                   response_text_data = json.loads(response.text)
                   entity_types = [obj["entity_type"] for obj in response_text_data]
-                  calculatedid = "".join([file, record_number, header, data])
-                  #positive_hash_value = hash(calculatedid) % (2**32)  # Using 2**32 to ensure a 32-bit positive hash value
-                  #positive_hash_value_str = str(positive_hash_value)
-                  print(calculatedid)
+                  stringrec_num = str(record_number)
+                  calculatedid = "".join([file, stringrec_num, header, data])
+                  positive_hash_value = hash(calculatedid)
+                  positive_hash_value_str = str(positive_hash_value)
                   for entity in entity_types:
                     ecdata = {
                         "entity": entity,
@@ -88,7 +88,7 @@ if __name__ == "__main__":
                     }
                     requests.packages.urllib3.disable_warnings()
                     print(ecdata)
-                    ecresponse = requests.post("/".join([es_url, es_index, es_category]), verify=False, json=ecdata)
+                    ecresponse = requests.post("/".join([es_url, es_index, es_category, positive_hash_value_str]), verify=False, json=ecdata)
                     print(ecresponse.text)
                     print(entity)
                   print("\n\n\n")
