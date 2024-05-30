@@ -1,6 +1,8 @@
 import requests
 
-def call_elastic_search(entity, file, record_number, header, es_url, es_index, es_category, positive_hash_value_str):
+def call_ta_persist(entity, file, record_number,
+                    header, ta_url, ta_index, ta_category, 
+                    positive_hash_value_str):
     ecdata = {
         "entity": entity,
         "file": file,
@@ -8,8 +10,11 @@ def call_elastic_search(entity, file, record_number, header, es_url, es_index, e
         "header": header
     }
     requests.packages.urllib3.disable_warnings()
-    ecresponse = requests.post("/".join([es_url, es_index, es_category, positive_hash_value_str]), verify=False, json=ecdata)
-    return ecresponse.text
+    ecresponse = requests.post("/".join([ta_url, ta_index,
+                                         ta_category, 
+                                         positive_hash_value_str]),
+                               verify=False, json=tadata)
+    return taresponse.text
 
 if __name__ == "__main__":
     import sys
