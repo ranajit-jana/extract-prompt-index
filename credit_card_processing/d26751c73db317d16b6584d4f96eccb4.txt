@@ -1,0 +1,19 @@
+Name: Melissa Davis
+Phone/Mobile: 001-597-383-8485
+Email: thomas00@example.com
+Residential Address: 6891 Vanessa Gateway Suite 096, Charlesside, NY 33854
+Credit Card Issued: 346582094432044
+Generated CVV: 1059
+Expiry date as on Credit Card: 09/31
+Date Of Birth: 06/09/1966
+MOTHERS_MAIDEN_NAME: Hawkins
+
+
+I have received the Credit Card as per the above information. 
+
+Data Entered in the system is true as per my knowledge. 
+
+
+Signature of Applicant
+Date
+Place

@@ -1,0 +1,19 @@
+Name: Emily Rivera
+Phone/Mobile: 001-871-568-5785
+Email: robertharvey@example.com
+Residential Address: 28085 Rachel Estates Suite 991, North Carlville, MO 03432
+Credit Card Issued: 4473696747188949
+Generated CVV: 826
+Expiry date as on Credit Card: 06/31
+Date Of Birth: 25/11/2021
+MOTHERS_MAIDEN_NAME: Ross
+
+
+I have received the Credit Card as per the above information. 
+
+Data Entered in the system is true as per my knowledge. 
+
+
+Signature of Applicant
+Date
+Place

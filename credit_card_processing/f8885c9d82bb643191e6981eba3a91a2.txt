@@ -1,0 +1,19 @@
+Name: James Johnson
+Phone/Mobile: 001-267-611-4600x68283
+Email: espinozajuan@example.com
+Residential Address: 993 Smith Village, Port Tabithaville, WI 45775
+Credit Card Issued: 6582516148856618
+Generated CVV: 4636
+Expiry date as on Credit Card: 09/29
+Date Of Birth: 18/05/1928
+MOTHERS_MAIDEN_NAME: Tucker
+
+
+I have received the Credit Card as per the above information. 
+
+Data Entered in the system is true as per my knowledge. 
+
+
+Signature of Applicant
+Date
+Place

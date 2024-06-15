@@ -1,0 +1,19 @@
+Name: Andrew Hartman
+Phone/Mobile: +1-647-953-2849
+Email: amy51@example.org
+Residential Address: 642 Linda Loaf, North Peter, NH 73494
+Credit Card Issued: 060402183440
+Generated CVV: 431
+Expiry date as on Credit Card: 12/25
+Date Of Birth: 08/02/1919
+MOTHERS_MAIDEN_NAME: Velasquez
+
+
+I have received the Credit Card as per the above information. 
+
+Data Entered in the system is true as per my knowledge. 
+
+
+Signature of Applicant
+Date
+Place

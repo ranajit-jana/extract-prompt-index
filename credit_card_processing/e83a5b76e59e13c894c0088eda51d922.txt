@@ -1,0 +1,19 @@
+Name: Mrs. Hailey Lane DDS
+Phone/Mobile: 805-739-0835
+Email: sally26@example.org
+Residential Address: 435 Leslie Pike, West Dale, FM 35423
+Credit Card Issued: 4536876647576196
+Generated CVV: 664
+Expiry date as on Credit Card: 05/26
+Date Of Birth: 23/11/2021
+MOTHERS_MAIDEN_NAME: Clay
+
+
+I have received the Credit Card as per the above information. 
+
+Data Entered in the system is true as per my knowledge. 
+
+
+Signature of Applicant
+Date
+Place

@@ -1,0 +1,19 @@
+Name: Daniel Garcia
+Phone/Mobile: 001-947-734-2753x1268
+Email: ericksonshane@example.org
+Residential Address: 6924 Diane Rue Apt. 665, Davisview, PR 92823
+Credit Card Issued: 6011635646289584
+Generated CVV: 0267
+Expiry date as on Credit Card: 01/28
+Date Of Birth: 06/01/2014
+MOTHERS_MAIDEN_NAME: Nguyen
+
+
+I have received the Credit Card as per the above information. 
+
+Data Entered in the system is true as per my knowledge. 
+
+
+Signature of Applicant
+Date
+Place

@@ -1,0 +1,19 @@
+Name: Brian Horn
+Phone/Mobile: 2626700934
+Email: jdavis@example.org
+Residential Address: PSC 3989, Box 5411, APO AA 70494
+Credit Card Issued: 4393371810104525751
+Generated CVV: 380
+Expiry date as on Credit Card: 09/32
+Date Of Birth: 04/08/2011
+MOTHERS_MAIDEN_NAME: Wilson
+
+
+I have received the Credit Card as per the above information. 
+
+Data Entered in the system is true as per my knowledge. 
+
+
+Signature of Applicant
+Date
+Place

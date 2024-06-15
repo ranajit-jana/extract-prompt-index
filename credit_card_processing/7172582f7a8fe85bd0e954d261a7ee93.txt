@@ -1,0 +1,19 @@
+Name: Daniel Webb
+Phone/Mobile: 531.661.3309
+Email: istewart@example.com
+Residential Address: 6316 Terri Spring Suite 767, East Adamfort, TX 05048
+Credit Card Issued: 502052445637
+Generated CVV: 562
+Expiry date as on Credit Card: 06/25
+Date Of Birth: 08/05/1948
+MOTHERS_MAIDEN_NAME: Blair
+
+
+I have received the Credit Card as per the above information. 
+
+Data Entered in the system is true as per my knowledge. 
+
+
+Signature of Applicant
+Date
+Place

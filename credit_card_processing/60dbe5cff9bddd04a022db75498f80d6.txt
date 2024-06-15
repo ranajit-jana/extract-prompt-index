@@ -1,0 +1,19 @@
+Name: Christian Allen
+Phone/Mobile: 774-454-7193
+Email: dkramer@example.org
+Residential Address: 80292 Brianna Crest Suite 506, Aguilarport, VT 55179
+Credit Card Issued: 6533874906253266
+Generated CVV: 664
+Expiry date as on Credit Card: 08/25
+Date Of Birth: 25/08/1921
+MOTHERS_MAIDEN_NAME: Gross
+
+
+I have received the Credit Card as per the above information. 
+
+Data Entered in the system is true as per my knowledge. 
+
+
+Signature of Applicant
+Date
+Place

@@ -1,0 +1,19 @@
+Name: Eric Dillon
+Phone/Mobile: (384)331-2748x83599
+Email: yconrad@example.com
+Residential Address: 111 Contreras Square, Port Mary, MS 27774
+Credit Card Issued: 2707008025975876
+Generated CVV: 320
+Expiry date as on Credit Card: 04/33
+Date Of Birth: 28/12/1940
+MOTHERS_MAIDEN_NAME: Baker
+
+
+I have received the Credit Card as per the above information. 
+
+Data Entered in the system is true as per my knowledge. 
+
+
+Signature of Applicant
+Date
+Place

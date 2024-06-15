@@ -1,0 +1,19 @@
+Name: Monica Morgan
+Phone/Mobile: 2034770227
+Email: gracecarter@example.net
+Residential Address: 34940 Perez Squares, South Dakotaland, CT 34294
+Credit Card Issued: 2275780986523893
+Generated CVV: 653
+Expiry date as on Credit Card: 07/31
+Date Of Birth: 12/03/1921
+MOTHERS_MAIDEN_NAME: Herrera
+
+
+I have received the Credit Card as per the above information. 
+
+Data Entered in the system is true as per my knowledge. 
+
+
+Signature of Applicant
+Date
+Place

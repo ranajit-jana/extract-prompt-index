@@ -1,0 +1,19 @@
+Name: Scott Baker
+Phone/Mobile: 367-687-8473
+Email: preed@example.org
+Residential Address: 441 Jacob Station, Port Sarafort, NJ 45048
+Credit Card Issued: 38737878965295
+Generated CVV: 263
+Expiry date as on Credit Card: 10/32
+Date Of Birth: 02/06/1999
+MOTHERS_MAIDEN_NAME: Trevino
+
+
+I have received the Credit Card as per the above information. 
+
+Data Entered in the system is true as per my knowledge. 
+
+
+Signature of Applicant
+Date
+Place

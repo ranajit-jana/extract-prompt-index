@@ -1,0 +1,19 @@
+Name: Lance Douglas
+Phone/Mobile: 210-436-6550
+Email: catherine23@example.com
+Residential Address: 695 Martinez Prairie, Lindabury, AK 51080
+Credit Card Issued: 6564798394387744
+Generated CVV: 791
+Expiry date as on Credit Card: 07/32
+Date Of Birth: 14/03/1944
+MOTHERS_MAIDEN_NAME: Martinez
+
+
+I have received the Credit Card as per the above information. 
+
+Data Entered in the system is true as per my knowledge. 
+
+
+Signature of Applicant
+Date
+Place
